@@ -1,0 +1,7 @@
+To Run
+
+1. use mysql db
+2. create emp_management schema.
+3. use swagger to test the api
+
+URL ===  http://localhost:9287/swagger-ui.html
